@@ -1,0 +1,673 @@
+fileFormatVersion: 2
+guid: 441cc6a5fc93bc74da1b2f682bbb56b9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: '3D View: {3D}'
+    100002: Basic Wall MURO 0.15m [359747]
+    100004: Basic Wall MURO 0.15m [359863]
+    100006: Basic Wall MURO 0.15m [359919]
+    100008: Basic Wall MURO 0.15m [360012]
+    100010: //RootNode
+    100012: "CODO AGUA FR\xCDA 12 Standard [1003646]"
+    100014: "CODO AGUA FR\xCDA 12 Standard [1003650]"
+    100016: "CODO AGUA FR\xCDA 12 Standard [1182503]"
+    100018: "CODO AGUA FR\xCDA 12 Standard [1182507]"
+    100020: "CODO AGUA FR\xCDA 12 Standard [986353]"
+    100022: "CODO AGUA FR\xCDA 12 Standard [986446]"
+    100024: "CODO AGUA FR\xCDA 12 Standard [986483]"
+    100026: "CODO AGUA FR\xCDA 34 Standard [1014834]"
+    100028: "CODO AGUA FR\xCDA 34 Standard [1059135]"
+    100030: "CODO AGUA FR\xCDA 34 Standard [994872]"
+    100032: Elbow - Generic Standard [1028122]
+    100034: Elbow - Generic Standard [1028126]
+    100036: Elbow - Generic Standard [1029650]
+    100038: Elbow - Generic Standard [1029654]
+    100040: Elbow - Generic Standard [1118164]
+    100042: Elbow - Generic Standard [1118230]
+    100044: Elbow - Generic Standard [1118575]
+    100046: Elbow - Generic Standard [1119560]
+    100048: Elbow - Generic Standard [1119752]
+    100050: Elbow - Generic Standard [1120796]
+    100052: Elbow - Generic Standard [1120801]
+    100054: Elbow - Generic Standard [1123391]
+    100056: Elbow - Generic Standard [1124290]
+    100058: Elbow - Generic Standard [1124294]
+    100060: Elbow - Generic Standard [1124385]
+    100062: Elbow - Generic Standard [986009]
+    100064: Elbow - Generic Standard [986011]
+    100066: Elbow - Generic Standard [986019]
+    100068: Fixed VENTANA ALTA [382665]
+    100070: Flex Pipe Round Flex - Round [1126744]
+    100072: Flex Pipe Round Flex - Round [1182136]
+    100074: "Floor JARD\xCDN [351098]"
+    100076: Floor PISO 0.15m 2 [361105]
+    100078: Floor Piso 0.25 [1026882]
+    100080: Floor Piso 0.25 [1029018]
+    100082: Floor Piso 0.25 [1030584]
+    100084: Floor PISO 0.25m 3 [364149]
+    100086: Floor PISO DECK 0.15m [353921]
+    100088: Floor_Drain_-_Small_3955 4" Diameter [1028119]
+    100090: Floor_Drain_-_Small_3955 4" Diameter [1029647]
+    100092: "INODORO B\xC1SICO Private - Flushing Greater than 1.6 gpf [971114]"
+    100094: Lavatory tablero 30"x18" - Private [986000]
+    100096: 'Linked Revit Model CASA_Arq.rvt : 3 : location <Not Shared> [985935]'
+    100098: mueble cocina Family1(Recovery) [1062425]
+    100100: "Pipe Types TUBO A. FR\xCDA TIGRE [1007232]"
+    100102: "Pipe Types TUBO A. FR\xCDA TIGRE [1007364]"
+    100104: "Pipe Types TUBO A. FR\xCDA TIGRE [1014831]"
+    100106: "Pipe Types TUBO A. FR\xCDA TIGRE [1097143]"
+    100108: "Pipe Types TUBO A. FR\xCDA TIGRE [1182192]"
+    100110: "Pipe Types TUBO A. FR\xCDA TIGRE [1182209]"
+    100112: "Pipe Types TUBO A. FR\xCDA TIGRE [1182486]"
+    100114: "Pipe Types TUBO A. FR\xCDA TIGRE [1182490]"
+    100116: "Pipe Types TUBO A. FR\xCDA TIGRE [1182501]"
+    100118: "Pipe Types TUBO A. FR\xCDA TIGRE [986001]"
+    100120: "Pipe Types TUBO A. FR\xCDA TIGRE [986003]"
+    100122: "Pipe Types TUBO A. FR\xCDA TIGRE [986212]"
+    100124: "Pipe Types TUBO A. FR\xCDA TIGRE [986880]"
+    100126: "Pipe Types TUBO A. FR\xCDA TIGRE [986975]"
+    100128: "Pipe Types TUBO A. FR\xCDA TIGRE [987008]"
+    100130: "Pipe Types TUBO A. FR\xCDA TIGRE [994977]"
+    100132: "Pipe Types TUBO DESAG\xDCE TIGRE [1007886]"
+    100134: "Pipe Types TUBO DESAG\xDCE TIGRE [1028124]"
+    100136: "Pipe Types TUBO DESAG\xDCE TIGRE [1028539]"
+    100138: "Pipe Types TUBO DESAG\xDCE TIGRE [1029648]"
+    100140: "Pipe Types TUBO DESAG\xDCE TIGRE [1029652]"
+    100142: "Pipe Types TUBO DESAG\xDCE TIGRE [1029658]"
+    100144: "Pipe Types TUBO DESAG\xDCE TIGRE [1030324]"
+    100146: "Pipe Types TUBO DESAG\xDCE TIGRE [1117912]"
+    100148: "Pipe Types TUBO DESAG\xDCE TIGRE [1118115]"
+    100150: "Pipe Types TUBO DESAG\xDCE TIGRE [1118131]"
+    100152: "Pipe Types TUBO DESAG\xDCE TIGRE [1118219]"
+    100154: "Pipe Types TUBO DESAG\xDCE TIGRE [1118492]"
+    100156: "Pipe Types TUBO DESAG\xDCE TIGRE [1118549]"
+    100158: "Pipe Types TUBO DESAG\xDCE TIGRE [1120060]"
+    100160: "Pipe Types TUBO DESAG\xDCE TIGRE [1120536]"
+    100162: "Pipe Types TUBO DESAG\xDCE TIGRE [1120845]"
+    100164: "Pipe Types TUBO DESAG\xDCE TIGRE [1121340]"
+    100166: "Pipe Types TUBO DESAG\xDCE TIGRE [1122259]"
+    100168: "Pipe Types TUBO DESAG\xDCE TIGRE [1122845]"
+    100170: "Pipe Types TUBO DESAG\xDCE TIGRE [1124070]"
+    100172: "Pipe Types TUBO DESAG\xDCE TIGRE [1124236]"
+    100174: "Pipe Types TUBO DESAG\xDCE TIGRE [1124340]"
+    100176: "Pipe Types TUBO DESAG\xDCE TIGRE [1124627]"
+    100178: "Pipe Types TUBO DESAG\xDCE TIGRE [1124752]"
+    100180: "Pipe Types TUBO DESAG\xDCE TIGRE [1124780]"
+    100182: "Pipe Types TUBO DESAG\xDCE TIGRE [978293]"
+    100184: "Pipe Types TUBO DESAG\xDCE TIGRE [986013]"
+    100186: "Pipe Types TUBO DESAG\xDCE TIGRE [986015]"
+    100188: "Pipe Types TUBO DESAG\xDCE TIGRE [986017]"
+    100190: puerta A 0.70 M [382789]
+    100192: puerta A 0.70 M [382874]
+    100194: Railing Glass Panel - Bottom Fill [384501]
+    100196: Railing Glass Panel - Bottom Fill [384501]_[387140]
+    100198: Railing Glass Panel - Bottom Fill [384501]_[389599]
+    100200: Railing Glass Panel - Bottom Fill [384501]_[389599] 1
+    100202: Railing Glass Panel - Bottom Fill [384501]_[389599] 2
+    100204: Railing Glass Panel - Bottom Fill [384501]_[389599] 3
+    100206: Railing Glass Panel - Bottom Fill [384501]_[389599] 4
+    100208: REGISTRO 4" Diameter [1026909]
+    100210: Tee - Generic1 Standard [1047261]
+    100212: Tee - Generic1 Standard [1118114]
+    100214: Tee - Generic1 Standard [1121276]
+    100216: Tee - Generic1 Standard [1121790]
+    100218: Tee - Generic1 Standard [1124389]
+    100220: Tee - Generic1 Standard [1124779]
+    100222: "TEE AGUA FR\xCDA 12 Standard [1182485]"
+    100224: "TEE AGUA FR\xCDA 34 Standard [1014830]"
+    100226: Transition - Generic Standard [1078198]
+    100228: Transition - Generic Standard [1118118]
+    100230: Transition - Generic Standard [1120815]
+    100232: Transition - Generic Standard [1121279]
+    100234: Transition - Generic Standard [1123400]
+    100236: Transition - Generic Standard [1124292]
+    100238: Transition - Generic Standard [1124808]
+    100240: Transition - Generic Standard [986033]
+    100242: VALVULA valvula 1/2" [988060]
+    400000: '3D View: {3D}'
+    400002: Basic Wall MURO 0.15m [359747]
+    400004: Basic Wall MURO 0.15m [359863]
+    400006: Basic Wall MURO 0.15m [359919]
+    400008: Basic Wall MURO 0.15m [360012]
+    400010: //RootNode
+    400012: "CODO AGUA FR\xCDA 12 Standard [1003646]"
+    400014: "CODO AGUA FR\xCDA 12 Standard [1003650]"
+    400016: "CODO AGUA FR\xCDA 12 Standard [1182503]"
+    400018: "CODO AGUA FR\xCDA 12 Standard [1182507]"
+    400020: "CODO AGUA FR\xCDA 12 Standard [986353]"
+    400022: "CODO AGUA FR\xCDA 12 Standard [986446]"
+    400024: "CODO AGUA FR\xCDA 12 Standard [986483]"
+    400026: "CODO AGUA FR\xCDA 34 Standard [1014834]"
+    400028: "CODO AGUA FR\xCDA 34 Standard [1059135]"
+    400030: "CODO AGUA FR\xCDA 34 Standard [994872]"
+    400032: Elbow - Generic Standard [1028122]
+    400034: Elbow - Generic Standard [1028126]
+    400036: Elbow - Generic Standard [1029650]
+    400038: Elbow - Generic Standard [1029654]
+    400040: Elbow - Generic Standard [1118164]
+    400042: Elbow - Generic Standard [1118230]
+    400044: Elbow - Generic Standard [1118575]
+    400046: Elbow - Generic Standard [1119560]
+    400048: Elbow - Generic Standard [1119752]
+    400050: Elbow - Generic Standard [1120796]
+    400052: Elbow - Generic Standard [1120801]
+    400054: Elbow - Generic Standard [1123391]
+    400056: Elbow - Generic Standard [1124290]
+    400058: Elbow - Generic Standard [1124294]
+    400060: Elbow - Generic Standard [1124385]
+    400062: Elbow - Generic Standard [986009]
+    400064: Elbow - Generic Standard [986011]
+    400066: Elbow - Generic Standard [986019]
+    400068: Fixed VENTANA ALTA [382665]
+    400070: Flex Pipe Round Flex - Round [1126744]
+    400072: Flex Pipe Round Flex - Round [1182136]
+    400074: "Floor JARD\xCDN [351098]"
+    400076: Floor PISO 0.15m 2 [361105]
+    400078: Floor Piso 0.25 [1026882]
+    400080: Floor Piso 0.25 [1029018]
+    400082: Floor Piso 0.25 [1030584]
+    400084: Floor PISO 0.25m 3 [364149]
+    400086: Floor PISO DECK 0.15m [353921]
+    400088: Floor_Drain_-_Small_3955 4" Diameter [1028119]
+    400090: Floor_Drain_-_Small_3955 4" Diameter [1029647]
+    400092: "INODORO B\xC1SICO Private - Flushing Greater than 1.6 gpf [971114]"
+    400094: Lavatory tablero 30"x18" - Private [986000]
+    400096: 'Linked Revit Model CASA_Arq.rvt : 3 : location <Not Shared> [985935]'
+    400098: mueble cocina Family1(Recovery) [1062425]
+    400100: "Pipe Types TUBO A. FR\xCDA TIGRE [1007232]"
+    400102: "Pipe Types TUBO A. FR\xCDA TIGRE [1007364]"
+    400104: "Pipe Types TUBO A. FR\xCDA TIGRE [1014831]"
+    400106: "Pipe Types TUBO A. FR\xCDA TIGRE [1097143]"
+    400108: "Pipe Types TUBO A. FR\xCDA TIGRE [1182192]"
+    400110: "Pipe Types TUBO A. FR\xCDA TIGRE [1182209]"
+    400112: "Pipe Types TUBO A. FR\xCDA TIGRE [1182486]"
+    400114: "Pipe Types TUBO A. FR\xCDA TIGRE [1182490]"
+    400116: "Pipe Types TUBO A. FR\xCDA TIGRE [1182501]"
+    400118: "Pipe Types TUBO A. FR\xCDA TIGRE [986001]"
+    400120: "Pipe Types TUBO A. FR\xCDA TIGRE [986003]"
+    400122: "Pipe Types TUBO A. FR\xCDA TIGRE [986212]"
+    400124: "Pipe Types TUBO A. FR\xCDA TIGRE [986880]"
+    400126: "Pipe Types TUBO A. FR\xCDA TIGRE [986975]"
+    400128: "Pipe Types TUBO A. FR\xCDA TIGRE [987008]"
+    400130: "Pipe Types TUBO A. FR\xCDA TIGRE [994977]"
+    400132: "Pipe Types TUBO DESAG\xDCE TIGRE [1007886]"
+    400134: "Pipe Types TUBO DESAG\xDCE TIGRE [1028124]"
+    400136: "Pipe Types TUBO DESAG\xDCE TIGRE [1028539]"
+    400138: "Pipe Types TUBO DESAG\xDCE TIGRE [1029648]"
+    400140: "Pipe Types TUBO DESAG\xDCE TIGRE [1029652]"
+    400142: "Pipe Types TUBO DESAG\xDCE TIGRE [1029658]"
+    400144: "Pipe Types TUBO DESAG\xDCE TIGRE [1030324]"
+    400146: "Pipe Types TUBO DESAG\xDCE TIGRE [1117912]"
+    400148: "Pipe Types TUBO DESAG\xDCE TIGRE [1118115]"
+    400150: "Pipe Types TUBO DESAG\xDCE TIGRE [1118131]"
+    400152: "Pipe Types TUBO DESAG\xDCE TIGRE [1118219]"
+    400154: "Pipe Types TUBO DESAG\xDCE TIGRE [1118492]"
+    400156: "Pipe Types TUBO DESAG\xDCE TIGRE [1118549]"
+    400158: "Pipe Types TUBO DESAG\xDCE TIGRE [1120060]"
+    400160: "Pipe Types TUBO DESAG\xDCE TIGRE [1120536]"
+    400162: "Pipe Types TUBO DESAG\xDCE TIGRE [1120845]"
+    400164: "Pipe Types TUBO DESAG\xDCE TIGRE [1121340]"
+    400166: "Pipe Types TUBO DESAG\xDCE TIGRE [1122259]"
+    400168: "Pipe Types TUBO DESAG\xDCE TIGRE [1122845]"
+    400170: "Pipe Types TUBO DESAG\xDCE TIGRE [1124070]"
+    400172: "Pipe Types TUBO DESAG\xDCE TIGRE [1124236]"
+    400174: "Pipe Types TUBO DESAG\xDCE TIGRE [1124340]"
+    400176: "Pipe Types TUBO DESAG\xDCE TIGRE [1124627]"
+    400178: "Pipe Types TUBO DESAG\xDCE TIGRE [1124752]"
+    400180: "Pipe Types TUBO DESAG\xDCE TIGRE [1124780]"
+    400182: "Pipe Types TUBO DESAG\xDCE TIGRE [978293]"
+    400184: "Pipe Types TUBO DESAG\xDCE TIGRE [986013]"
+    400186: "Pipe Types TUBO DESAG\xDCE TIGRE [986015]"
+    400188: "Pipe Types TUBO DESAG\xDCE TIGRE [986017]"
+    400190: puerta A 0.70 M [382789]
+    400192: puerta A 0.70 M [382874]
+    400194: Railing Glass Panel - Bottom Fill [384501]
+    400196: Railing Glass Panel - Bottom Fill [384501]_[387140]
+    400198: Railing Glass Panel - Bottom Fill [384501]_[389599]
+    400200: Railing Glass Panel - Bottom Fill [384501]_[389599] 1
+    400202: Railing Glass Panel - Bottom Fill [384501]_[389599] 2
+    400204: Railing Glass Panel - Bottom Fill [384501]_[389599] 3
+    400206: Railing Glass Panel - Bottom Fill [384501]_[389599] 4
+    400208: REGISTRO 4" Diameter [1026909]
+    400210: Tee - Generic1 Standard [1047261]
+    400212: Tee - Generic1 Standard [1118114]
+    400214: Tee - Generic1 Standard [1121276]
+    400216: Tee - Generic1 Standard [1121790]
+    400218: Tee - Generic1 Standard [1124389]
+    400220: Tee - Generic1 Standard [1124779]
+    400222: "TEE AGUA FR\xCDA 12 Standard [1182485]"
+    400224: "TEE AGUA FR\xCDA 34 Standard [1014830]"
+    400226: Transition - Generic Standard [1078198]
+    400228: Transition - Generic Standard [1118118]
+    400230: Transition - Generic Standard [1120815]
+    400232: Transition - Generic Standard [1121279]
+    400234: Transition - Generic Standard [1123400]
+    400236: Transition - Generic Standard [1124292]
+    400238: Transition - Generic Standard [1124808]
+    400240: Transition - Generic Standard [986033]
+    400242: VALVULA valvula 1/2" [988060]
+    2000000: '3D View: {3D}'
+    2100000: No Name
+    2300000: Basic Wall MURO 0.15m [359747]
+    2300002: Basic Wall MURO 0.15m [359863]
+    2300004: Basic Wall MURO 0.15m [359919]
+    2300006: Basic Wall MURO 0.15m [360012]
+    2300008: "CODO AGUA FR\xCDA 12 Standard [1003646]"
+    2300010: "CODO AGUA FR\xCDA 12 Standard [1003650]"
+    2300012: "CODO AGUA FR\xCDA 12 Standard [1182503]"
+    2300014: "CODO AGUA FR\xCDA 12 Standard [1182507]"
+    2300016: "CODO AGUA FR\xCDA 12 Standard [986353]"
+    2300018: "CODO AGUA FR\xCDA 12 Standard [986446]"
+    2300020: "CODO AGUA FR\xCDA 12 Standard [986483]"
+    2300022: "CODO AGUA FR\xCDA 34 Standard [1014834]"
+    2300024: "CODO AGUA FR\xCDA 34 Standard [1059135]"
+    2300026: "CODO AGUA FR\xCDA 34 Standard [994872]"
+    2300028: Elbow - Generic Standard [1028122]
+    2300030: Elbow - Generic Standard [1028126]
+    2300032: Elbow - Generic Standard [1029650]
+    2300034: Elbow - Generic Standard [1029654]
+    2300036: Elbow - Generic Standard [1118164]
+    2300038: Elbow - Generic Standard [1118230]
+    2300040: Elbow - Generic Standard [1118575]
+    2300042: Elbow - Generic Standard [1119560]
+    2300044: Elbow - Generic Standard [1119752]
+    2300046: Elbow - Generic Standard [1120796]
+    2300048: Elbow - Generic Standard [1120801]
+    2300050: Elbow - Generic Standard [1123391]
+    2300052: Elbow - Generic Standard [1124290]
+    2300054: Elbow - Generic Standard [1124294]
+    2300056: Elbow - Generic Standard [1124385]
+    2300058: Elbow - Generic Standard [986009]
+    2300060: Elbow - Generic Standard [986011]
+    2300062: Elbow - Generic Standard [986019]
+    2300064: Fixed VENTANA ALTA [382665]
+    2300066: Flex Pipe Round Flex - Round [1126744]
+    2300068: Flex Pipe Round Flex - Round [1182136]
+    2300070: "Floor JARD\xCDN [351098]"
+    2300072: Floor PISO 0.15m 2 [361105]
+    2300074: Floor Piso 0.25 [1026882]
+    2300076: Floor Piso 0.25 [1029018]
+    2300078: Floor Piso 0.25 [1030584]
+    2300080: Floor PISO 0.25m 3 [364149]
+    2300082: Floor PISO DECK 0.15m [353921]
+    2300084: Floor_Drain_-_Small_3955 4" Diameter [1028119]
+    2300086: Floor_Drain_-_Small_3955 4" Diameter [1029647]
+    2300088: "INODORO B\xC1SICO Private - Flushing Greater than 1.6 gpf [971114]"
+    2300090: Lavatory tablero 30"x18" - Private [986000]
+    2300092: mueble cocina Family1(Recovery) [1062425]
+    2300094: "Pipe Types TUBO A. FR\xCDA TIGRE [1007232]"
+    2300096: "Pipe Types TUBO A. FR\xCDA TIGRE [1007364]"
+    2300098: "Pipe Types TUBO A. FR\xCDA TIGRE [1014831]"
+    2300100: "Pipe Types TUBO A. FR\xCDA TIGRE [1097143]"
+    2300102: "Pipe Types TUBO A. FR\xCDA TIGRE [1182192]"
+    2300104: "Pipe Types TUBO A. FR\xCDA TIGRE [1182209]"
+    2300106: "Pipe Types TUBO A. FR\xCDA TIGRE [1182486]"
+    2300108: "Pipe Types TUBO A. FR\xCDA TIGRE [1182490]"
+    2300110: "Pipe Types TUBO A. FR\xCDA TIGRE [1182501]"
+    2300112: "Pipe Types TUBO A. FR\xCDA TIGRE [986001]"
+    2300114: "Pipe Types TUBO A. FR\xCDA TIGRE [986003]"
+    2300116: "Pipe Types TUBO A. FR\xCDA TIGRE [986212]"
+    2300118: "Pipe Types TUBO A. FR\xCDA TIGRE [986880]"
+    2300120: "Pipe Types TUBO A. FR\xCDA TIGRE [986975]"
+    2300122: "Pipe Types TUBO A. FR\xCDA TIGRE [987008]"
+    2300124: "Pipe Types TUBO A. FR\xCDA TIGRE [994977]"
+    2300126: "Pipe Types TUBO DESAG\xDCE TIGRE [1007886]"
+    2300128: "Pipe Types TUBO DESAG\xDCE TIGRE [1028124]"
+    2300130: "Pipe Types TUBO DESAG\xDCE TIGRE [1028539]"
+    2300132: "Pipe Types TUBO DESAG\xDCE TIGRE [1029648]"
+    2300134: "Pipe Types TUBO DESAG\xDCE TIGRE [1029652]"
+    2300136: "Pipe Types TUBO DESAG\xDCE TIGRE [1029658]"
+    2300138: "Pipe Types TUBO DESAG\xDCE TIGRE [1030324]"
+    2300140: "Pipe Types TUBO DESAG\xDCE TIGRE [1117912]"
+    2300142: "Pipe Types TUBO DESAG\xDCE TIGRE [1118115]"
+    2300144: "Pipe Types TUBO DESAG\xDCE TIGRE [1118131]"
+    2300146: "Pipe Types TUBO DESAG\xDCE TIGRE [1118219]"
+    2300148: "Pipe Types TUBO DESAG\xDCE TIGRE [1118492]"
+    2300150: "Pipe Types TUBO DESAG\xDCE TIGRE [1118549]"
+    2300152: "Pipe Types TUBO DESAG\xDCE TIGRE [1120060]"
+    2300154: "Pipe Types TUBO DESAG\xDCE TIGRE [1120536]"
+    2300156: "Pipe Types TUBO DESAG\xDCE TIGRE [1120845]"
+    2300158: "Pipe Types TUBO DESAG\xDCE TIGRE [1121340]"
+    2300160: "Pipe Types TUBO DESAG\xDCE TIGRE [1122259]"
+    2300162: "Pipe Types TUBO DESAG\xDCE TIGRE [1122845]"
+    2300164: "Pipe Types TUBO DESAG\xDCE TIGRE [1124070]"
+    2300166: "Pipe Types TUBO DESAG\xDCE TIGRE [1124236]"
+    2300168: "Pipe Types TUBO DESAG\xDCE TIGRE [1124340]"
+    2300170: "Pipe Types TUBO DESAG\xDCE TIGRE [1124627]"
+    2300172: "Pipe Types TUBO DESAG\xDCE TIGRE [1124752]"
+    2300174: "Pipe Types TUBO DESAG\xDCE TIGRE [1124780]"
+    2300176: "Pipe Types TUBO DESAG\xDCE TIGRE [978293]"
+    2300178: "Pipe Types TUBO DESAG\xDCE TIGRE [986013]"
+    2300180: "Pipe Types TUBO DESAG\xDCE TIGRE [986015]"
+    2300182: "Pipe Types TUBO DESAG\xDCE TIGRE [986017]"
+    2300184: puerta A 0.70 M [382789]
+    2300186: puerta A 0.70 M [382874]
+    2300188: Railing Glass Panel - Bottom Fill [384501]_[387140]
+    2300190: Railing Glass Panel - Bottom Fill [384501]_[389599]
+    2300192: Railing Glass Panel - Bottom Fill [384501]_[389599] 1
+    2300194: Railing Glass Panel - Bottom Fill [384501]_[389599] 2
+    2300196: Railing Glass Panel - Bottom Fill [384501]_[389599] 3
+    2300198: Railing Glass Panel - Bottom Fill [384501]_[389599] 4
+    2300200: REGISTRO 4" Diameter [1026909]
+    2300202: Tee - Generic1 Standard [1047261]
+    2300204: Tee - Generic1 Standard [1118114]
+    2300206: Tee - Generic1 Standard [1121276]
+    2300208: Tee - Generic1 Standard [1121790]
+    2300210: Tee - Generic1 Standard [1124389]
+    2300212: Tee - Generic1 Standard [1124779]
+    2300214: "TEE AGUA FR\xCDA 12 Standard [1182485]"
+    2300216: "TEE AGUA FR\xCDA 34 Standard [1014830]"
+    2300218: Transition - Generic Standard [1078198]
+    2300220: Transition - Generic Standard [1118118]
+    2300222: Transition - Generic Standard [1120815]
+    2300224: Transition - Generic Standard [1121279]
+    2300226: Transition - Generic Standard [1123400]
+    2300228: Transition - Generic Standard [1124292]
+    2300230: Transition - Generic Standard [1124808]
+    2300232: Transition - Generic Standard [986033]
+    2300234: VALVULA valvula 1/2" [988060]
+    3300000: Basic Wall MURO 0.15m [359747]
+    3300002: Basic Wall MURO 0.15m [359863]
+    3300004: Basic Wall MURO 0.15m [359919]
+    3300006: Basic Wall MURO 0.15m [360012]
+    3300008: "CODO AGUA FR\xCDA 12 Standard [1003646]"
+    3300010: "CODO AGUA FR\xCDA 12 Standard [1003650]"
+    3300012: "CODO AGUA FR\xCDA 12 Standard [1182503]"
+    3300014: "CODO AGUA FR\xCDA 12 Standard [1182507]"
+    3300016: "CODO AGUA FR\xCDA 12 Standard [986353]"
+    3300018: "CODO AGUA FR\xCDA 12 Standard [986446]"
+    3300020: "CODO AGUA FR\xCDA 12 Standard [986483]"
+    3300022: "CODO AGUA FR\xCDA 34 Standard [1014834]"
+    3300024: "CODO AGUA FR\xCDA 34 Standard [1059135]"
+    3300026: "CODO AGUA FR\xCDA 34 Standard [994872]"
+    3300028: Elbow - Generic Standard [1028122]
+    3300030: Elbow - Generic Standard [1028126]
+    3300032: Elbow - Generic Standard [1029650]
+    3300034: Elbow - Generic Standard [1029654]
+    3300036: Elbow - Generic Standard [1118164]
+    3300038: Elbow - Generic Standard [1118230]
+    3300040: Elbow - Generic Standard [1118575]
+    3300042: Elbow - Generic Standard [1119560]
+    3300044: Elbow - Generic Standard [1119752]
+    3300046: Elbow - Generic Standard [1120796]
+    3300048: Elbow - Generic Standard [1120801]
+    3300050: Elbow - Generic Standard [1123391]
+    3300052: Elbow - Generic Standard [1124290]
+    3300054: Elbow - Generic Standard [1124294]
+    3300056: Elbow - Generic Standard [1124385]
+    3300058: Elbow - Generic Standard [986009]
+    3300060: Elbow - Generic Standard [986011]
+    3300062: Elbow - Generic Standard [986019]
+    3300064: Fixed VENTANA ALTA [382665]
+    3300066: Flex Pipe Round Flex - Round [1126744]
+    3300068: Flex Pipe Round Flex - Round [1182136]
+    3300070: "Floor JARD\xCDN [351098]"
+    3300072: Floor PISO 0.15m 2 [361105]
+    3300074: Floor Piso 0.25 [1026882]
+    3300076: Floor Piso 0.25 [1029018]
+    3300078: Floor Piso 0.25 [1030584]
+    3300080: Floor PISO 0.25m 3 [364149]
+    3300082: Floor PISO DECK 0.15m [353921]
+    3300084: Floor_Drain_-_Small_3955 4" Diameter [1028119]
+    3300086: Floor_Drain_-_Small_3955 4" Diameter [1029647]
+    3300088: "INODORO B\xC1SICO Private - Flushing Greater than 1.6 gpf [971114]"
+    3300090: Lavatory tablero 30"x18" - Private [986000]
+    3300092: mueble cocina Family1(Recovery) [1062425]
+    3300094: "Pipe Types TUBO A. FR\xCDA TIGRE [1007232]"
+    3300096: "Pipe Types TUBO A. FR\xCDA TIGRE [1007364]"
+    3300098: "Pipe Types TUBO A. FR\xCDA TIGRE [1014831]"
+    3300100: "Pipe Types TUBO A. FR\xCDA TIGRE [1097143]"
+    3300102: "Pipe Types TUBO A. FR\xCDA TIGRE [1182192]"
+    3300104: "Pipe Types TUBO A. FR\xCDA TIGRE [1182209]"
+    3300106: "Pipe Types TUBO A. FR\xCDA TIGRE [1182486]"
+    3300108: "Pipe Types TUBO A. FR\xCDA TIGRE [1182490]"
+    3300110: "Pipe Types TUBO A. FR\xCDA TIGRE [1182501]"
+    3300112: "Pipe Types TUBO A. FR\xCDA TIGRE [986001]"
+    3300114: "Pipe Types TUBO A. FR\xCDA TIGRE [986003]"
+    3300116: "Pipe Types TUBO A. FR\xCDA TIGRE [986212]"
+    3300118: "Pipe Types TUBO A. FR\xCDA TIGRE [986880]"
+    3300120: "Pipe Types TUBO A. FR\xCDA TIGRE [986975]"
+    3300122: "Pipe Types TUBO A. FR\xCDA TIGRE [987008]"
+    3300124: "Pipe Types TUBO A. FR\xCDA TIGRE [994977]"
+    3300126: "Pipe Types TUBO DESAG\xDCE TIGRE [1007886]"
+    3300128: "Pipe Types TUBO DESAG\xDCE TIGRE [1028124]"
+    3300130: "Pipe Types TUBO DESAG\xDCE TIGRE [1028539]"
+    3300132: "Pipe Types TUBO DESAG\xDCE TIGRE [1029648]"
+    3300134: "Pipe Types TUBO DESAG\xDCE TIGRE [1029652]"
+    3300136: "Pipe Types TUBO DESAG\xDCE TIGRE [1029658]"
+    3300138: "Pipe Types TUBO DESAG\xDCE TIGRE [1030324]"
+    3300140: "Pipe Types TUBO DESAG\xDCE TIGRE [1117912]"
+    3300142: "Pipe Types TUBO DESAG\xDCE TIGRE [1118115]"
+    3300144: "Pipe Types TUBO DESAG\xDCE TIGRE [1118131]"
+    3300146: "Pipe Types TUBO DESAG\xDCE TIGRE [1118219]"
+    3300148: "Pipe Types TUBO DESAG\xDCE TIGRE [1118492]"
+    3300150: "Pipe Types TUBO DESAG\xDCE TIGRE [1118549]"
+    3300152: "Pipe Types TUBO DESAG\xDCE TIGRE [1120060]"
+    3300154: "Pipe Types TUBO DESAG\xDCE TIGRE [1120536]"
+    3300156: "Pipe Types TUBO DESAG\xDCE TIGRE [1120845]"
+    3300158: "Pipe Types TUBO DESAG\xDCE TIGRE [1121340]"
+    3300160: "Pipe Types TUBO DESAG\xDCE TIGRE [1122259]"
+    3300162: "Pipe Types TUBO DESAG\xDCE TIGRE [1122845]"
+    3300164: "Pipe Types TUBO DESAG\xDCE TIGRE [1124070]"
+    3300166: "Pipe Types TUBO DESAG\xDCE TIGRE [1124236]"
+    3300168: "Pipe Types TUBO DESAG\xDCE TIGRE [1124340]"
+    3300170: "Pipe Types TUBO DESAG\xDCE TIGRE [1124627]"
+    3300172: "Pipe Types TUBO DESAG\xDCE TIGRE [1124752]"
+    3300174: "Pipe Types TUBO DESAG\xDCE TIGRE [1124780]"
+    3300176: "Pipe Types TUBO DESAG\xDCE TIGRE [978293]"
+    3300178: "Pipe Types TUBO DESAG\xDCE TIGRE [986013]"
+    3300180: "Pipe Types TUBO DESAG\xDCE TIGRE [986015]"
+    3300182: "Pipe Types TUBO DESAG\xDCE TIGRE [986017]"
+    3300184: puerta A 0.70 M [382789]
+    3300186: puerta A 0.70 M [382874]
+    3300188: Railing Glass Panel - Bottom Fill [384501]_[387140]
+    3300190: Railing Glass Panel - Bottom Fill [384501]_[389599]
+    3300192: Railing Glass Panel - Bottom Fill [384501]_[389599] 1
+    3300194: Railing Glass Panel - Bottom Fill [384501]_[389599] 2
+    3300196: Railing Glass Panel - Bottom Fill [384501]_[389599] 3
+    3300198: Railing Glass Panel - Bottom Fill [384501]_[389599] 4
+    3300200: REGISTRO 4" Diameter [1026909]
+    3300202: Tee - Generic1 Standard [1047261]
+    3300204: Tee - Generic1 Standard [1118114]
+    3300206: Tee - Generic1 Standard [1121276]
+    3300208: Tee - Generic1 Standard [1121790]
+    3300210: Tee - Generic1 Standard [1124389]
+    3300212: Tee - Generic1 Standard [1124779]
+    3300214: "TEE AGUA FR\xCDA 12 Standard [1182485]"
+    3300216: "TEE AGUA FR\xCDA 34 Standard [1014830]"
+    3300218: Transition - Generic Standard [1078198]
+    3300220: Transition - Generic Standard [1118118]
+    3300222: Transition - Generic Standard [1120815]
+    3300224: Transition - Generic Standard [1121279]
+    3300226: Transition - Generic Standard [1123400]
+    3300228: Transition - Generic Standard [1124292]
+    3300230: Transition - Generic Standard [1124808]
+    3300232: Transition - Generic Standard [986033]
+    3300234: VALVULA valvula 1/2" [988060]
+    4300000: "INODORO B\xC1SICO Private - Flushing Greater than 1.6 gpf [971114]"
+    4300002: "Pipe Types TUBO DESAG\xDCE TIGRE [978293]"
+    4300004: "Floor JARD\xCDN [351098]"
+    4300006: Floor PISO DECK 0.15m [353921]
+    4300008: Basic Wall MURO 0.15m [359747]
+    4300010: Basic Wall MURO 0.15m [359863]
+    4300012: Basic Wall MURO 0.15m [359919]
+    4300014: Basic Wall MURO 0.15m [360012]
+    4300016: Floor PISO 0.15m 2 [361105]
+    4300018: Floor PISO 0.25m 3 [364149]
+    4300020: Fixed VENTANA ALTA [382665]
+    4300022: puerta A 0.70 M [382789]
+    4300024: puerta A 0.70 M [382874]
+    4300026: Railing Glass Panel - Bottom Fill [384501]_[387140]
+    4300028: Railing Glass Panel - Bottom Fill [384501]_[389599]
+    4300030: Railing Glass Panel - Bottom Fill [384501]_[389599]
+    4300032: Railing Glass Panel - Bottom Fill [384501]_[389599]
+    4300034: Railing Glass Panel - Bottom Fill [384501]_[389599]
+    4300036: Railing Glass Panel - Bottom Fill [384501]_[389599]
+    4300038: Lavatory tablero 30"x18" - Private [986000]
+    4300040: "Pipe Types TUBO A. FR\xCDA TIGRE [986001]"
+    4300042: "Pipe Types TUBO A. FR\xCDA TIGRE [986003]"
+    4300044: Elbow - Generic Standard [986009]
+    4300046: "Pipe Types TUBO DESAG\xDCE TIGRE [986013]"
+    4300048: "Pipe Types TUBO DESAG\xDCE TIGRE [986015]"
+    4300050: "Pipe Types TUBO DESAG\xDCE TIGRE [986017]"
+    4300052: Transition - Generic Standard [986033]
+    4300054: "Pipe Types TUBO A. FR\xCDA TIGRE [986212]"
+    4300056: "CODO AGUA FR\xCDA 12 Standard [986353]"
+    4300058: "Pipe Types TUBO A. FR\xCDA TIGRE [986880]"
+    4300060: "Pipe Types TUBO A. FR\xCDA TIGRE [986975]"
+    4300062: "Pipe Types TUBO A. FR\xCDA TIGRE [987008]"
+    4300064: VALVULA valvula 1/2" [988060]
+    4300066: "CODO AGUA FR\xCDA 34 Standard [994872]"
+    4300068: "Pipe Types TUBO A. FR\xCDA TIGRE [994977]"
+    4300070: "Pipe Types TUBO A. FR\xCDA TIGRE [1007232]"
+    4300072: "Pipe Types TUBO A. FR\xCDA TIGRE [1007364]"
+    4300074: "Pipe Types TUBO DESAG\xDCE TIGRE [1007886]"
+    4300076: "TEE AGUA FR\xCDA 34 Standard [1014830]"
+    4300078: "Pipe Types TUBO A. FR\xCDA TIGRE [1014831]"
+    4300080: Floor Piso 0.25 [1026882]
+    4300082: REGISTRO 4" Diameter [1026909]
+    4300084: Floor_Drain_-_Small_3955 4" Diameter [1028119]
+    4300086: Elbow - Generic Standard [1028122]
+    4300088: "Pipe Types TUBO DESAG\xDCE TIGRE [1028124]"
+    4300090: Elbow - Generic Standard [1028126]
+    4300092: "Pipe Types TUBO DESAG\xDCE TIGRE [1028539]"
+    4300094: Floor Piso 0.25 [1029018]
+    4300096: "Pipe Types TUBO DESAG\xDCE TIGRE [1029648]"
+    4300098: "Pipe Types TUBO DESAG\xDCE TIGRE [1029652]"
+    4300100: "Pipe Types TUBO DESAG\xDCE TIGRE [1029658]"
+    4300102: "Pipe Types TUBO DESAG\xDCE TIGRE [1030324]"
+    4300104: Floor Piso 0.25 [1030584]
+    4300106: Tee - Generic1 Standard [1047261]
+    4300108: mueble cocina Family1(Recovery) [1062425]
+    4300110: Transition - Generic Standard [1078198]
+    4300112: "Pipe Types TUBO A. FR\xCDA TIGRE [1097143]"
+    4300114: "Pipe Types TUBO DESAG\xDCE TIGRE [1117912]"
+    4300116: Tee - Generic1 Standard [1118114]
+    4300118: "Pipe Types TUBO DESAG\xDCE TIGRE [1118115]"
+    4300120: Transition - Generic Standard [1118118]
+    4300122: "Pipe Types TUBO DESAG\xDCE TIGRE [1118131]"
+    4300124: Elbow - Generic Standard [1118164]
+    4300126: "Pipe Types TUBO DESAG\xDCE TIGRE [1118219]"
+    4300128: Elbow - Generic Standard [1118230]
+    4300130: "Pipe Types TUBO DESAG\xDCE TIGRE [1118492]"
+    4300132: "Pipe Types TUBO DESAG\xDCE TIGRE [1118549]"
+    4300134: Elbow - Generic Standard [1118575]
+    4300136: Elbow - Generic Standard [1119560]
+    4300138: Elbow - Generic Standard [1119752]
+    4300140: "Pipe Types TUBO DESAG\xDCE TIGRE [1120060]"
+    4300142: "Pipe Types TUBO DESAG\xDCE TIGRE [1120536]"
+    4300144: Elbow - Generic Standard [1120796]
+    4300146: Elbow - Generic Standard [1120801]
+    4300148: Transition - Generic Standard [1120815]
+    4300150: "Pipe Types TUBO DESAG\xDCE TIGRE [1120845]"
+    4300152: Tee - Generic1 Standard [1121276]
+    4300154: Transition - Generic Standard [1121279]
+    4300156: "Pipe Types TUBO DESAG\xDCE TIGRE [1121340]"
+    4300158: Tee - Generic1 Standard [1121790]
+    4300160: "Pipe Types TUBO DESAG\xDCE TIGRE [1122259]"
+    4300162: "Pipe Types TUBO DESAG\xDCE TIGRE [1122845]"
+    4300164: Elbow - Generic Standard [1123391]
+    4300166: "Pipe Types TUBO DESAG\xDCE TIGRE [1124070]"
+    4300168: "Pipe Types TUBO DESAG\xDCE TIGRE [1124236]"
+    4300170: Elbow - Generic Standard [1124290]
+    4300172: Transition - Generic Standard [1124292]
+    4300174: Elbow - Generic Standard [1124294]
+    4300176: "Pipe Types TUBO DESAG\xDCE TIGRE [1124340]"
+    4300178: Elbow - Generic Standard [1124385]
+    4300180: Tee - Generic1 Standard [1124389]
+    4300182: "Pipe Types TUBO DESAG\xDCE TIGRE [1124627]"
+    4300184: "Pipe Types TUBO DESAG\xDCE TIGRE [1124752]"
+    4300186: Tee - Generic1 Standard [1124779]
+    4300188: "Pipe Types TUBO DESAG\xDCE TIGRE [1124780]"
+    4300190: Flex Pipe Round Flex - Round [1126744]
+    4300192: Flex Pipe Round Flex - Round [1182136]
+    4300194: "Pipe Types TUBO A. FR\xCDA TIGRE [1182192]"
+    4300196: "Pipe Types TUBO A. FR\xCDA TIGRE [1182209]"
+    4300198: "TEE AGUA FR\xCDA 12 Standard [1182485]"
+    4300200: "Pipe Types TUBO A. FR\xCDA TIGRE [1182486]"
+    4300202: "Pipe Types TUBO A. FR\xCDA TIGRE [1182490]"
+    4300204: "Pipe Types TUBO A. FR\xCDA TIGRE [1182501]"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

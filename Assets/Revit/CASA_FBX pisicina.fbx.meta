@@ -1,0 +1,460 @@
+fileFormatVersion: 2
+guid: fa56563d958aba543ba8996593f0b445
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 0663 Pool Sand Filter amp Pump 0663 Pool Sand Filter amp Pump [1101754]
+    100002: '3D View: {3D}'
+    100004: Basic Wall MURO 0.15m [522884]
+    100006: Basic Wall MURO 0.15m [522930]
+    100008: Basic Wall MURO 0.15m [522977]
+    100010: Basic Wall MURO 0.15m [523005]
+    100012: BOQUILLAS BOQUILLAS [1167818]
+    100014: BOQUILLAS BOQUILLAS [1169517]
+    100016: BOQUILLAS RETORNO BOQUILLAS RETORNO [1170355]
+    100018: BOQUILLAS RETORNO BOQUILLAS RETORNO [1170403]
+    100020: "camara de compensaci\xF3n camara de compensaci\xF3n [1178196]"
+    100022: //RootNode
+    100024: "CODO AGUA FR\xCDA 34 Standard [1164454]"
+    100026: "CODO AGUA FR\xCDA 34 Standard [1164773]"
+    100028: "CODO AGUA FR\xCDA 34 Standard [1165000]"
+    100030: "CODO AGUA FR\xCDA 34 Standard [1165007]"
+    100032: "CODO AGUA FR\xCDA 34 Standard [1165539]"
+    100034: "CODO AGUA FR\xCDA 34 Standard [1165718]"
+    100036: "CODO AGUA FR\xCDA 34 Standard [1166888]"
+    100038: DESNATADOR DESNATADOR [1171304]
+    100040: DESNATADOR DESNATADOR [1173618]
+    100042: Elbow - Generic Standard [1151122]
+    100044: Elbow - Generic Standard [1151167]
+    100046: Elbow - Generic Standard [1157399]
+    100048: Elbow - Generic Standard [1165491]
+    100050: Elbow - Generic Standard [1165860]
+    100052: Elbow - Generic Standard [1165897]
+    100054: Elbow - Generic Standard [1166098]
+    100056: Elbow - Generic Standard [1166580]
+    100058: Elbow - Generic Standard [1166588]
+    100060: Elbow - Generic Standard [1166793]
+    100062: Elbow - Generic Standard [1173468]
+    100064: Elbow - Generic Standard [1173470]
+    100066: Elbow - Generic Standard [1173961]
+    100068: "Floor JARD\xCDN [351098]"
+    100070: Floor PISO DECK 0.15m [353921]
+    100072: 'Linked Revit Model CASA_Arq.rvt : 3 : location <Not Shared> [985935]'
+    100074: "Pipe Types TUBO A. FR\xCDA TIGRE [1097126]"
+    100076: "Pipe Types TUBO A. FR\xCDA TIGRE [1104806]"
+    100078: "Pipe Types TUBO A. FR\xCDA TIGRE [1104822]"
+    100080: "Pipe Types TUBO A. FR\xCDA TIGRE [1164442]"
+    100082: "Pipe Types TUBO A. FR\xCDA TIGRE [1164527]"
+    100084: "Pipe Types TUBO A. FR\xCDA TIGRE [1164765]"
+    100086: "Pipe Types TUBO A. FR\xCDA TIGRE [1164953]"
+    100088: "Pipe Types TUBO A. FR\xCDA TIGRE [1164995]"
+    100090: "Pipe Types TUBO A. FR\xCDA TIGRE [1165525]"
+    100092: "Pipe Types TUBO A. FR\xCDA TIGRE [1165738]"
+    100094: "Pipe Types TUBO A. FR\xCDA TIGRE [1166880]"
+    100096: "Pipe Types TUBO A. FR\xCDA TIGRE [1180796]"
+    100098: "Pipe Types TUBO A. FR\xCDA TIGRE [1180983]"
+    100100: "Pipe Types TUBO DESAG\xDCE TIGRE [1104710]"
+    100102: "Pipe Types TUBO DESAG\xDCE TIGRE [1107535]"
+    100104: "Pipe Types TUBO DESAG\xDCE TIGRE [1107580]"
+    100106: "Pipe Types TUBO DESAG\xDCE TIGRE [1107726]"
+    100108: "Pipe Types TUBO DESAG\xDCE TIGRE [1107983]"
+    100110: "Pipe Types TUBO DESAG\xDCE TIGRE [1108042]"
+    100112: "Pipe Types TUBO DESAG\xDCE TIGRE [1108108]"
+    100114: "Pipe Types TUBO DESAG\xDCE TIGRE [1148701]"
+    100116: "Pipe Types TUBO DESAG\xDCE TIGRE [1157389]"
+    100118: "Pipe Types TUBO DESAG\xDCE TIGRE [1165253]"
+    100120: "Pipe Types TUBO DESAG\xDCE TIGRE [1165836]"
+    100122: "Pipe Types TUBO DESAG\xDCE TIGRE [1165850]"
+    100124: "Pipe Types TUBO DESAG\xDCE TIGRE [1165889]"
+    100126: "Pipe Types TUBO DESAG\xDCE TIGRE [1166078]"
+    100128: "Pipe Types TUBO DESAG\xDCE TIGRE [1166090]"
+    100130: "Pipe Types TUBO DESAG\xDCE TIGRE [1166216]"
+    100132: "Pipe Types TUBO DESAG\xDCE TIGRE [1166260]"
+    100134: "Pipe Types TUBO DESAG\xDCE TIGRE [1166506]"
+    100136: "Pipe Types TUBO DESAG\xDCE TIGRE [1166572]"
+    100138: "Pipe Types TUBO DESAG\xDCE TIGRE [1166582]"
+    100140: "Pipe Types TUBO DESAG\xDCE TIGRE [1166767]"
+    100142: "Pipe Types TUBO DESAG\xDCE TIGRE [1172367]"
+    100144: "Pipe Types TUBO DESAG\xDCE TIGRE [1173732]"
+    100146: Tee - Generic Standard [1164994]
+    100148: Tee - Generic1 Standard [1165824]
+    100150: Tee - Generic1 Standard [1166151]
+    100152: "TEE AGUA FR\xCDA 34 Standard [1102024]"
+    100154: VALVULA 34 valvula 3/4" [1101849]
+    100156: VALVULA piscina valvula 3/4" [1152112]
+    100158: VALVULA piscina valvula 3/4" [1152388]
+    400000: 0663 Pool Sand Filter amp Pump 0663 Pool Sand Filter amp Pump [1101754]
+    400002: '3D View: {3D}'
+    400004: Basic Wall MURO 0.15m [522884]
+    400006: Basic Wall MURO 0.15m [522930]
+    400008: Basic Wall MURO 0.15m [522977]
+    400010: Basic Wall MURO 0.15m [523005]
+    400012: BOQUILLAS BOQUILLAS [1167818]
+    400014: BOQUILLAS BOQUILLAS [1169517]
+    400016: BOQUILLAS RETORNO BOQUILLAS RETORNO [1170355]
+    400018: BOQUILLAS RETORNO BOQUILLAS RETORNO [1170403]
+    400020: "camara de compensaci\xF3n camara de compensaci\xF3n [1178196]"
+    400022: //RootNode
+    400024: "CODO AGUA FR\xCDA 34 Standard [1164454]"
+    400026: "CODO AGUA FR\xCDA 34 Standard [1164773]"
+    400028: "CODO AGUA FR\xCDA 34 Standard [1165000]"
+    400030: "CODO AGUA FR\xCDA 34 Standard [1165007]"
+    400032: "CODO AGUA FR\xCDA 34 Standard [1165539]"
+    400034: "CODO AGUA FR\xCDA 34 Standard [1165718]"
+    400036: "CODO AGUA FR\xCDA 34 Standard [1166888]"
+    400038: DESNATADOR DESNATADOR [1171304]
+    400040: DESNATADOR DESNATADOR [1173618]
+    400042: Elbow - Generic Standard [1151122]
+    400044: Elbow - Generic Standard [1151167]
+    400046: Elbow - Generic Standard [1157399]
+    400048: Elbow - Generic Standard [1165491]
+    400050: Elbow - Generic Standard [1165860]
+    400052: Elbow - Generic Standard [1165897]
+    400054: Elbow - Generic Standard [1166098]
+    400056: Elbow - Generic Standard [1166580]
+    400058: Elbow - Generic Standard [1166588]
+    400060: Elbow - Generic Standard [1166793]
+    400062: Elbow - Generic Standard [1173468]
+    400064: Elbow - Generic Standard [1173470]
+    400066: Elbow - Generic Standard [1173961]
+    400068: "Floor JARD\xCDN [351098]"
+    400070: Floor PISO DECK 0.15m [353921]
+    400072: 'Linked Revit Model CASA_Arq.rvt : 3 : location <Not Shared> [985935]'
+    400074: "Pipe Types TUBO A. FR\xCDA TIGRE [1097126]"
+    400076: "Pipe Types TUBO A. FR\xCDA TIGRE [1104806]"
+    400078: "Pipe Types TUBO A. FR\xCDA TIGRE [1104822]"
+    400080: "Pipe Types TUBO A. FR\xCDA TIGRE [1164442]"
+    400082: "Pipe Types TUBO A. FR\xCDA TIGRE [1164527]"
+    400084: "Pipe Types TUBO A. FR\xCDA TIGRE [1164765]"
+    400086: "Pipe Types TUBO A. FR\xCDA TIGRE [1164953]"
+    400088: "Pipe Types TUBO A. FR\xCDA TIGRE [1164995]"
+    400090: "Pipe Types TUBO A. FR\xCDA TIGRE [1165525]"
+    400092: "Pipe Types TUBO A. FR\xCDA TIGRE [1165738]"
+    400094: "Pipe Types TUBO A. FR\xCDA TIGRE [1166880]"
+    400096: "Pipe Types TUBO A. FR\xCDA TIGRE [1180796]"
+    400098: "Pipe Types TUBO A. FR\xCDA TIGRE [1180983]"
+    400100: "Pipe Types TUBO DESAG\xDCE TIGRE [1104710]"
+    400102: "Pipe Types TUBO DESAG\xDCE TIGRE [1107535]"
+    400104: "Pipe Types TUBO DESAG\xDCE TIGRE [1107580]"
+    400106: "Pipe Types TUBO DESAG\xDCE TIGRE [1107726]"
+    400108: "Pipe Types TUBO DESAG\xDCE TIGRE [1107983]"
+    400110: "Pipe Types TUBO DESAG\xDCE TIGRE [1108042]"
+    400112: "Pipe Types TUBO DESAG\xDCE TIGRE [1108108]"
+    400114: "Pipe Types TUBO DESAG\xDCE TIGRE [1148701]"
+    400116: "Pipe Types TUBO DESAG\xDCE TIGRE [1157389]"
+    400118: "Pipe Types TUBO DESAG\xDCE TIGRE [1165253]"
+    400120: "Pipe Types TUBO DESAG\xDCE TIGRE [1165836]"
+    400122: "Pipe Types TUBO DESAG\xDCE TIGRE [1165850]"
+    400124: "Pipe Types TUBO DESAG\xDCE TIGRE [1165889]"
+    400126: "Pipe Types TUBO DESAG\xDCE TIGRE [1166078]"
+    400128: "Pipe Types TUBO DESAG\xDCE TIGRE [1166090]"
+    400130: "Pipe Types TUBO DESAG\xDCE TIGRE [1166216]"
+    400132: "Pipe Types TUBO DESAG\xDCE TIGRE [1166260]"
+    400134: "Pipe Types TUBO DESAG\xDCE TIGRE [1166506]"
+    400136: "Pipe Types TUBO DESAG\xDCE TIGRE [1166572]"
+    400138: "Pipe Types TUBO DESAG\xDCE TIGRE [1166582]"
+    400140: "Pipe Types TUBO DESAG\xDCE TIGRE [1166767]"
+    400142: "Pipe Types TUBO DESAG\xDCE TIGRE [1172367]"
+    400144: "Pipe Types TUBO DESAG\xDCE TIGRE [1173732]"
+    400146: Tee - Generic Standard [1164994]
+    400148: Tee - Generic1 Standard [1165824]
+    400150: Tee - Generic1 Standard [1166151]
+    400152: "TEE AGUA FR\xCDA 34 Standard [1102024]"
+    400154: VALVULA 34 valvula 3/4" [1101849]
+    400156: VALVULA piscina valvula 3/4" [1152112]
+    400158: VALVULA piscina valvula 3/4" [1152388]
+    2000000: '3D View: {3D}'
+    2100000: No Name
+    2300000: 0663 Pool Sand Filter amp Pump 0663 Pool Sand Filter amp Pump [1101754]
+    2300002: Basic Wall MURO 0.15m [522884]
+    2300004: Basic Wall MURO 0.15m [522930]
+    2300006: Basic Wall MURO 0.15m [522977]
+    2300008: Basic Wall MURO 0.15m [523005]
+    2300010: BOQUILLAS BOQUILLAS [1167818]
+    2300012: BOQUILLAS BOQUILLAS [1169517]
+    2300014: BOQUILLAS RETORNO BOQUILLAS RETORNO [1170355]
+    2300016: BOQUILLAS RETORNO BOQUILLAS RETORNO [1170403]
+    2300018: "camara de compensaci\xF3n camara de compensaci\xF3n [1178196]"
+    2300020: "CODO AGUA FR\xCDA 34 Standard [1164454]"
+    2300022: "CODO AGUA FR\xCDA 34 Standard [1164773]"
+    2300024: "CODO AGUA FR\xCDA 34 Standard [1165000]"
+    2300026: "CODO AGUA FR\xCDA 34 Standard [1165007]"
+    2300028: "CODO AGUA FR\xCDA 34 Standard [1165539]"
+    2300030: "CODO AGUA FR\xCDA 34 Standard [1165718]"
+    2300032: "CODO AGUA FR\xCDA 34 Standard [1166888]"
+    2300034: DESNATADOR DESNATADOR [1171304]
+    2300036: DESNATADOR DESNATADOR [1173618]
+    2300038: Elbow - Generic Standard [1151122]
+    2300040: Elbow - Generic Standard [1151167]
+    2300042: Elbow - Generic Standard [1157399]
+    2300044: Elbow - Generic Standard [1165491]
+    2300046: Elbow - Generic Standard [1165860]
+    2300048: Elbow - Generic Standard [1165897]
+    2300050: Elbow - Generic Standard [1166098]
+    2300052: Elbow - Generic Standard [1166580]
+    2300054: Elbow - Generic Standard [1166588]
+    2300056: Elbow - Generic Standard [1166793]
+    2300058: Elbow - Generic Standard [1173468]
+    2300060: Elbow - Generic Standard [1173470]
+    2300062: Elbow - Generic Standard [1173961]
+    2300064: "Floor JARD\xCDN [351098]"
+    2300066: Floor PISO DECK 0.15m [353921]
+    2300068: "Pipe Types TUBO A. FR\xCDA TIGRE [1097126]"
+    2300070: "Pipe Types TUBO A. FR\xCDA TIGRE [1104806]"
+    2300072: "Pipe Types TUBO A. FR\xCDA TIGRE [1104822]"
+    2300074: "Pipe Types TUBO A. FR\xCDA TIGRE [1164442]"
+    2300076: "Pipe Types TUBO A. FR\xCDA TIGRE [1164527]"
+    2300078: "Pipe Types TUBO A. FR\xCDA TIGRE [1164765]"
+    2300080: "Pipe Types TUBO A. FR\xCDA TIGRE [1164953]"
+    2300082: "Pipe Types TUBO A. FR\xCDA TIGRE [1164995]"
+    2300084: "Pipe Types TUBO A. FR\xCDA TIGRE [1165525]"
+    2300086: "Pipe Types TUBO A. FR\xCDA TIGRE [1165738]"
+    2300088: "Pipe Types TUBO A. FR\xCDA TIGRE [1166880]"
+    2300090: "Pipe Types TUBO A. FR\xCDA TIGRE [1180796]"
+    2300092: "Pipe Types TUBO A. FR\xCDA TIGRE [1180983]"
+    2300094: "Pipe Types TUBO DESAG\xDCE TIGRE [1104710]"
+    2300096: "Pipe Types TUBO DESAG\xDCE TIGRE [1107535]"
+    2300098: "Pipe Types TUBO DESAG\xDCE TIGRE [1107580]"
+    2300100: "Pipe Types TUBO DESAG\xDCE TIGRE [1107726]"
+    2300102: "Pipe Types TUBO DESAG\xDCE TIGRE [1107983]"
+    2300104: "Pipe Types TUBO DESAG\xDCE TIGRE [1108042]"
+    2300106: "Pipe Types TUBO DESAG\xDCE TIGRE [1108108]"
+    2300108: "Pipe Types TUBO DESAG\xDCE TIGRE [1148701]"
+    2300110: "Pipe Types TUBO DESAG\xDCE TIGRE [1157389]"
+    2300112: "Pipe Types TUBO DESAG\xDCE TIGRE [1165253]"
+    2300114: "Pipe Types TUBO DESAG\xDCE TIGRE [1165836]"
+    2300116: "Pipe Types TUBO DESAG\xDCE TIGRE [1165850]"
+    2300118: "Pipe Types TUBO DESAG\xDCE TIGRE [1165889]"
+    2300120: "Pipe Types TUBO DESAG\xDCE TIGRE [1166078]"
+    2300122: "Pipe Types TUBO DESAG\xDCE TIGRE [1166090]"
+    2300124: "Pipe Types TUBO DESAG\xDCE TIGRE [1166216]"
+    2300126: "Pipe Types TUBO DESAG\xDCE TIGRE [1166260]"
+    2300128: "Pipe Types TUBO DESAG\xDCE TIGRE [1166506]"
+    2300130: "Pipe Types TUBO DESAG\xDCE TIGRE [1166572]"
+    2300132: "Pipe Types TUBO DESAG\xDCE TIGRE [1166582]"
+    2300134: "Pipe Types TUBO DESAG\xDCE TIGRE [1166767]"
+    2300136: "Pipe Types TUBO DESAG\xDCE TIGRE [1172367]"
+    2300138: "Pipe Types TUBO DESAG\xDCE TIGRE [1173732]"
+    2300140: Tee - Generic Standard [1164994]
+    2300142: Tee - Generic1 Standard [1165824]
+    2300144: Tee - Generic1 Standard [1166151]
+    2300146: "TEE AGUA FR\xCDA 34 Standard [1102024]"
+    2300148: VALVULA 34 valvula 3/4" [1101849]
+    2300150: VALVULA piscina valvula 3/4" [1152112]
+    2300152: VALVULA piscina valvula 3/4" [1152388]
+    3300000: 0663 Pool Sand Filter amp Pump 0663 Pool Sand Filter amp Pump [1101754]
+    3300002: Basic Wall MURO 0.15m [522884]
+    3300004: Basic Wall MURO 0.15m [522930]
+    3300006: Basic Wall MURO 0.15m [522977]
+    3300008: Basic Wall MURO 0.15m [523005]
+    3300010: BOQUILLAS BOQUILLAS [1167818]
+    3300012: BOQUILLAS BOQUILLAS [1169517]
+    3300014: BOQUILLAS RETORNO BOQUILLAS RETORNO [1170355]
+    3300016: BOQUILLAS RETORNO BOQUILLAS RETORNO [1170403]
+    3300018: "camara de compensaci\xF3n camara de compensaci\xF3n [1178196]"
+    3300020: "CODO AGUA FR\xCDA 34 Standard [1164454]"
+    3300022: "CODO AGUA FR\xCDA 34 Standard [1164773]"
+    3300024: "CODO AGUA FR\xCDA 34 Standard [1165000]"
+    3300026: "CODO AGUA FR\xCDA 34 Standard [1165007]"
+    3300028: "CODO AGUA FR\xCDA 34 Standard [1165539]"
+    3300030: "CODO AGUA FR\xCDA 34 Standard [1165718]"
+    3300032: "CODO AGUA FR\xCDA 34 Standard [1166888]"
+    3300034: DESNATADOR DESNATADOR [1171304]
+    3300036: DESNATADOR DESNATADOR [1173618]
+    3300038: Elbow - Generic Standard [1151122]
+    3300040: Elbow - Generic Standard [1151167]
+    3300042: Elbow - Generic Standard [1157399]
+    3300044: Elbow - Generic Standard [1165491]
+    3300046: Elbow - Generic Standard [1165860]
+    3300048: Elbow - Generic Standard [1165897]
+    3300050: Elbow - Generic Standard [1166098]
+    3300052: Elbow - Generic Standard [1166580]
+    3300054: Elbow - Generic Standard [1166588]
+    3300056: Elbow - Generic Standard [1166793]
+    3300058: Elbow - Generic Standard [1173468]
+    3300060: Elbow - Generic Standard [1173470]
+    3300062: Elbow - Generic Standard [1173961]
+    3300064: "Floor JARD\xCDN [351098]"
+    3300066: Floor PISO DECK 0.15m [353921]
+    3300068: "Pipe Types TUBO A. FR\xCDA TIGRE [1097126]"
+    3300070: "Pipe Types TUBO A. FR\xCDA TIGRE [1104806]"
+    3300072: "Pipe Types TUBO A. FR\xCDA TIGRE [1104822]"
+    3300074: "Pipe Types TUBO A. FR\xCDA TIGRE [1164442]"
+    3300076: "Pipe Types TUBO A. FR\xCDA TIGRE [1164527]"
+    3300078: "Pipe Types TUBO A. FR\xCDA TIGRE [1164765]"
+    3300080: "Pipe Types TUBO A. FR\xCDA TIGRE [1164953]"
+    3300082: "Pipe Types TUBO A. FR\xCDA TIGRE [1164995]"
+    3300084: "Pipe Types TUBO A. FR\xCDA TIGRE [1165525]"
+    3300086: "Pipe Types TUBO A. FR\xCDA TIGRE [1165738]"
+    3300088: "Pipe Types TUBO A. FR\xCDA TIGRE [1166880]"
+    3300090: "Pipe Types TUBO A. FR\xCDA TIGRE [1180796]"
+    3300092: "Pipe Types TUBO A. FR\xCDA TIGRE [1180983]"
+    3300094: "Pipe Types TUBO DESAG\xDCE TIGRE [1104710]"
+    3300096: "Pipe Types TUBO DESAG\xDCE TIGRE [1107535]"
+    3300098: "Pipe Types TUBO DESAG\xDCE TIGRE [1107580]"
+    3300100: "Pipe Types TUBO DESAG\xDCE TIGRE [1107726]"
+    3300102: "Pipe Types TUBO DESAG\xDCE TIGRE [1107983]"
+    3300104: "Pipe Types TUBO DESAG\xDCE TIGRE [1108042]"
+    3300106: "Pipe Types TUBO DESAG\xDCE TIGRE [1108108]"
+    3300108: "Pipe Types TUBO DESAG\xDCE TIGRE [1148701]"
+    3300110: "Pipe Types TUBO DESAG\xDCE TIGRE [1157389]"
+    3300112: "Pipe Types TUBO DESAG\xDCE TIGRE [1165253]"
+    3300114: "Pipe Types TUBO DESAG\xDCE TIGRE [1165836]"
+    3300116: "Pipe Types TUBO DESAG\xDCE TIGRE [1165850]"
+    3300118: "Pipe Types TUBO DESAG\xDCE TIGRE [1165889]"
+    3300120: "Pipe Types TUBO DESAG\xDCE TIGRE [1166078]"
+    3300122: "Pipe Types TUBO DESAG\xDCE TIGRE [1166090]"
+    3300124: "Pipe Types TUBO DESAG\xDCE TIGRE [1166216]"
+    3300126: "Pipe Types TUBO DESAG\xDCE TIGRE [1166260]"
+    3300128: "Pipe Types TUBO DESAG\xDCE TIGRE [1166506]"
+    3300130: "Pipe Types TUBO DESAG\xDCE TIGRE [1166572]"
+    3300132: "Pipe Types TUBO DESAG\xDCE TIGRE [1166582]"
+    3300134: "Pipe Types TUBO DESAG\xDCE TIGRE [1166767]"
+    3300136: "Pipe Types TUBO DESAG\xDCE TIGRE [1172367]"
+    3300138: "Pipe Types TUBO DESAG\xDCE TIGRE [1173732]"
+    3300140: Tee - Generic Standard [1164994]
+    3300142: Tee - Generic1 Standard [1165824]
+    3300144: Tee - Generic1 Standard [1166151]
+    3300146: "TEE AGUA FR\xCDA 34 Standard [1102024]"
+    3300148: VALVULA 34 valvula 3/4" [1101849]
+    3300150: VALVULA piscina valvula 3/4" [1152112]
+    3300152: VALVULA piscina valvula 3/4" [1152388]
+    4300000: "Floor JARD\xCDN [351098]"
+    4300002: Floor PISO DECK 0.15m [353921]
+    4300004: Basic Wall MURO 0.15m [522884]
+    4300006: Basic Wall MURO 0.15m [522930]
+    4300008: Basic Wall MURO 0.15m [522977]
+    4300010: Basic Wall MURO 0.15m [523005]
+    4300012: "Pipe Types TUBO A. FR\xCDA TIGRE [1097126]"
+    4300014: 0663 Pool Sand Filter amp Pump 0663 Pool Sand Filter amp Pump [1101754]
+    4300016: VALVULA 34 valvula 3/4" [1101849]
+    4300018: "TEE AGUA FR\xCDA 34 Standard [1102024]"
+    4300020: "Pipe Types TUBO DESAG\xDCE TIGRE [1104710]"
+    4300022: "Pipe Types TUBO A. FR\xCDA TIGRE [1104806]"
+    4300024: "Pipe Types TUBO A. FR\xCDA TIGRE [1104822]"
+    4300026: "Pipe Types TUBO DESAG\xDCE TIGRE [1107535]"
+    4300028: "Pipe Types TUBO DESAG\xDCE TIGRE [1107580]"
+    4300030: "Pipe Types TUBO DESAG\xDCE TIGRE [1107726]"
+    4300032: "Pipe Types TUBO DESAG\xDCE TIGRE [1107983]"
+    4300034: "Pipe Types TUBO DESAG\xDCE TIGRE [1108042]"
+    4300036: "Pipe Types TUBO DESAG\xDCE TIGRE [1108108]"
+    4300038: "Pipe Types TUBO DESAG\xDCE TIGRE [1148701]"
+    4300040: Elbow - Generic Standard [1151122]
+    4300042: VALVULA piscina valvula 3/4" [1152112]
+    4300044: "Pipe Types TUBO DESAG\xDCE TIGRE [1157389]"
+    4300046: Elbow - Generic Standard [1157399]
+    4300048: "Pipe Types TUBO A. FR\xCDA TIGRE [1164442]"
+    4300050: "CODO AGUA FR\xCDA 34 Standard [1164454]"
+    4300052: "Pipe Types TUBO A. FR\xCDA TIGRE [1164527]"
+    4300054: "Pipe Types TUBO A. FR\xCDA TIGRE [1164765]"
+    4300056: "Pipe Types TUBO A. FR\xCDA TIGRE [1164953]"
+    4300058: Tee - Generic Standard [1164994]
+    4300060: "Pipe Types TUBO A. FR\xCDA TIGRE [1164995]"
+    4300062: "Pipe Types TUBO DESAG\xDCE TIGRE [1165253]"
+    4300064: "Pipe Types TUBO A. FR\xCDA TIGRE [1165525]"
+    4300066: "Pipe Types TUBO A. FR\xCDA TIGRE [1165738]"
+    4300068: Tee - Generic1 Standard [1165824]
+    4300070: "Pipe Types TUBO DESAG\xDCE TIGRE [1165836]"
+    4300072: "Pipe Types TUBO DESAG\xDCE TIGRE [1165850]"
+    4300074: "Pipe Types TUBO DESAG\xDCE TIGRE [1165889]"
+    4300076: "Pipe Types TUBO DESAG\xDCE TIGRE [1166078]"
+    4300078: "Pipe Types TUBO DESAG\xDCE TIGRE [1166090]"
+    4300080: "Pipe Types TUBO DESAG\xDCE TIGRE [1166216]"
+    4300082: "Pipe Types TUBO DESAG\xDCE TIGRE [1166260]"
+    4300084: "Pipe Types TUBO DESAG\xDCE TIGRE [1166506]"
+    4300086: "Pipe Types TUBO DESAG\xDCE TIGRE [1166572]"
+    4300088: "Pipe Types TUBO DESAG\xDCE TIGRE [1166582]"
+    4300090: "Pipe Types TUBO DESAG\xDCE TIGRE [1166767]"
+    4300092: "Pipe Types TUBO A. FR\xCDA TIGRE [1166880]"
+    4300094: BOQUILLAS BOQUILLAS [1167818]
+    4300096: BOQUILLAS RETORNO BOQUILLAS RETORNO [1170355]
+    4300098: DESNATADOR DESNATADOR [1171304]
+    4300100: "Pipe Types TUBO DESAG\xDCE TIGRE [1172367]"
+    4300102: Elbow - Generic Standard [1173468]
+    4300104: "Pipe Types TUBO DESAG\xDCE TIGRE [1173732]"
+    4300106: "camara de compensaci\xF3n camara de compensaci\xF3n [1178196]"
+    4300108: "Pipe Types TUBO A. FR\xCDA TIGRE [1180796]"
+    4300110: "Pipe Types TUBO A. FR\xCDA TIGRE [1180983]"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
